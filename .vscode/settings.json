@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Ballerini Theme",
+    "files.readonlyFromPermissions": true,
+    "editor.largeFileOptimizations": false,
+    "workbench.editorAssociations": {
+        "*.xls": "default"
+    },
+    "workbench.editor.empty.hint": "hidden"
+}
